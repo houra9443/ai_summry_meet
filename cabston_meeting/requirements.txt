@@ -1,0 +1,10 @@
+flask
+flask_cors
+torch
+psutil
+requests
+langdetect
+faster-whisper
+transformers
+onnxruntime
+flax
